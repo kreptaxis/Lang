@@ -1,8 +1,8 @@
 {
-  "name": "krpx",
+  "name": "@kreptaxis/krpx",
   "version": "0.0.1",
   "description": "Placeholder for the kreptaxis programming language (.krpx files).",
-  "license": "UNLICENSED",
+  "license": "LICENSE.md",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kreptaxis/Lang.git",

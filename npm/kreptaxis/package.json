@@ -1,0 +1,13 @@
+{
+  "name": "kreptaxis",
+  "version": "0.0.1",
+  "description": "Placeholder for the kreptaxis programming language (.krpx files).",
+  "license": "LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kreptaxis/Lang.git",
+    "directory": "npm/kreptaxis"
+  },
+  "homepage": "https://lang.kreptaxis.com",
+  "keywords": ["kreptaxis", "krpx"]
+}
