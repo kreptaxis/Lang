@@ -5,5 +5,5 @@
 - Extension: .krpx
 - Encoding: UTF-8 text
 - Maintainer: Q4CHIN
-- Publisher: OnionAoratos LLC
-- Website: OnionAoratos.com
+- Language site: lang.kreptaxis.com
+- Publisher: OnionAoratos LLC (OnionAoratos.com)
