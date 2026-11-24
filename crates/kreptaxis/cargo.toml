@@ -1,0 +1,10 @@
+[package]
+name = "kreptaxis"
+version = "0.0.1"
+edition = "2021"
+description = "Placeholder for the kreptaxis programming language (.krpx files)."
+license-file = "LICENSE.md"
+readme = "README.md"
+repository = "https://github.com/kreptaxis/Lang"
+homepage = "https://lang.kreptaxis.com"
+keywords = ["kreptaxis", "krpx"]
