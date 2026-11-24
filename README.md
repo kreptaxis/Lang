@@ -7,3 +7,5 @@
 - Maintainer: Q4CHIN
 - Language site: lang.kreptaxis.com
 - Publisher: OnionAoratos LLC (OnionAoratos.com)
+
+This package only holds the name. The language is not released yet.
